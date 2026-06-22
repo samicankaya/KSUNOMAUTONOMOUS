@@ -13,7 +13,7 @@ KSÜNOM AUTONOMOUS, Kahramanmaraş Sütçü İmam Üniversitesi Mühendislik Fak
 
 Kurulum (Installation)
 ```bash
-# Projeyi bilgisayarınıza indirin (Clone the repository)
+#  Projeyi bilgisayarınıza indirin (Clone the repository)
 git clone [(https://github.com/samicankaya/KSUNOMAUTONOMOUS.git)](https://github.com/KSUNOMAUTONOMOUS.git)
 
 # Proje dizininin içine geçiş yapın (Navigate to the project directory)
